@@ -5,6 +5,9 @@
 // enabled for your account.  You are still allowed to require
 // @cubejs-backend/*-driver packages.
 
+
+// dummy
+
 module.exports = {
 };
 

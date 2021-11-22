@@ -51,6 +51,7 @@ cube(`Orders`, {
       sql: `completed_at`,
       type: `time`
     }
+    // another change
   }
 });
 

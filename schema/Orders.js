@@ -47,10 +47,10 @@ cube(`Orders`, {
       type: `time`
     },
     
-    // completedAt: {
-    //   sql: `completed_at`,
-    //   type: `time`
-    // }
+    completedAt: {
+      sql: `completed_at`,
+      type: `time`
+    }
   }
 });
 
